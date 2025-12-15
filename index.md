@@ -1,4 +1,4 @@
-# Evaluating NBA Lottery Picks Using Career Performance*
+# Evaluating NBA Lottery Picks Using Career Performance
 
 **Group Members:**  
 Ali Efe Isik, Djordje Lazarevic  
@@ -29,6 +29,8 @@ Yellow: Low Performers
 Blue: Medium Performers  
 Pink: High Performers
 
+<br>
+
 **Visualization 1**
 
 <iframe
@@ -41,6 +43,8 @@ Pink: High Performers
 </iframe>
 
 &emsp;&emsp;&emsp;&emsp;From this visualization, we can see a clear positive association between average minutes per game and average PIR for top-10 picks. Players who appear in the high-PIR region of the plot also tend to play more minutes, while most low-PIR players cluster at lower minute totals. The presence of a substantial pink cluster indicates that a meaningful subset of top-10 picks significantly outperformed the rest and can reasonably be viewed as “hits” or star-level outcomes, which connects back to our question about how often teams succeed with early lottery selections. At the same time, there is noticeable spread in the plot: not every high-minute player has an elite PIR, and some efficient players have moderate minutes, showing that performance and playing time are related but not perfectly aligned
+
+<br>
 
 **Visualization 2**
 
