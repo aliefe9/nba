@@ -3,7 +3,7 @@
 **Group Members:**  
 Ali Efe Isik, Djordje Lazarevic  
    
-[Google Colab](https://colab.research.google.com/github/aliefe9/Evaluating_NBA_Lottery_Picks_Using_Career_Performce/blob/main/nba_draft_analysis.ipynb)
+[Google Colab](https://colab.research.google.com/github/aliefe9/Evaluating_NBA_Lottery_Picks_Using_Career_Performce/blob/main/nba_final.ipynb)
 
 **Introduction**  
 &emsp;&emsp;&emsp;This project looks into the career success of NBA players who were selected in the first 10 places in the NBA draft. We used a dataset from kaggle that contains detailed statistics from multiple NBA seasons, and our research question is: “How successful have first 10 draft picks been, and which teams made the most draft mistakes?”  
