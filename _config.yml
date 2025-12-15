@@ -1,7 +1,5 @@
-title: "Ali Efe Isik"
-# description: "Student Athlete at Whitman College"
+title: Ali Efe Isik
+#logo: /assets/img/.......png
+#description: text below image 
+#show_downloads: true
 theme: jekyll-theme-minimal
-
-# Optional:
-# logo: /assets/img/profile.png
-# show_downloads: false
