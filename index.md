@@ -31,7 +31,7 @@ Pink: High Performers
 
 <br>
 
-**Visualization 1**
+**Figure 1**
 
 <iframe
   src="player_performance_kmeans.html"
@@ -42,11 +42,11 @@ Pink: High Performers
   <p>Your browser does not support iframes.</p>
 </iframe>
 
-&emsp;&emsp;&emsp;From this visualization, we can see a clear positive association between average minutes per game and average PIR for top-10 picks. Players who appear in the high-PIR region of the plot also tend to play more minutes, while most low-PIR players cluster at lower minute totals. The presence of a substantial pink cluster indicates that a meaningful subset of top-10 picks significantly outperformed the rest and can reasonably be viewed as “hits” or star-level outcomes, which connects back to our question about how often teams succeed with early lottery selections. At the same time, there is noticeable spread in the plot: not every high-minute player has an elite PIR, and some efficient players have moderate minutes, showing that performance and playing time are related but not perfectly aligned
+&emsp;&emsp;&emsp;From this figure, we can see a clear positive association between average minutes per game and average PIR for top-10 picks. Players who appear in the high-PIR region of the plot also tend to play more minutes, while most low-PIR players cluster at lower minute totals. The presence of a substantial pink cluster indicates that a meaningful subset of top-10 picks significantly outperformed the rest and can reasonably be viewed as “hits” or star-level outcomes, which connects back to our question about how often teams succeed with early lottery selections. At the same time, there is noticeable spread in the plot: not every high-minute player has an elite PIR, and some efficient players have moderate minutes, showing that performance and playing time are related but not perfectly aligned
 
 <br>
 
-**Visualization 2**
+**Figure 2**
 
 <iframe
   src="underperforming_lottery_picks.html"
@@ -57,12 +57,12 @@ Pink: High Performers
   <p>Your browser does not support iframes.</p>
 </iframe>
 
-&emsp;&emsp;&emsp;In the second visualization, we summarize how many low-performing top-10 picks (yellow-cluster players) each team drafted over the period covered by our dataset. Each bar represents a team, and its height is the count of players from the low-PIR cluster. This view answers our question about which franchises have struggled the most with top-10 selections: the Sacramento Kings stand out with 8 underperforming picks, compared to an average of about 2.93 per team. Other teams cluster closer to the average, and some franchises have very few or no low-PIR top-10 picks, suggesting a stronger track record with their high draft choices
+&emsp;&emsp;&emsp;In the second figure, we summarize how many low-performing top-10 picks (yellow-cluster players) each team drafted over the period covered by our dataset. Each bar represents a team, and its height is the count of players from the low-PIR cluster. This view answers our question about which franchises have struggled the most with top-10 selections: the Sacramento Kings stand out with 8 underperforming picks, compared to an average of about 2.93 per team. Other teams cluster closer to the average, and some franchises have very few or no low-PIR top-10 picks, suggesting a stronger track record with their high draft choices
 
 **Conclusion**   
 &emsp;&emsp;&emsp;This analysis shows that the career performance of top-10 draft picks varies widely, even among players selected at the very top of the draft. Using PIR as our main performance metric and clustering players into low, medium, and high performers, we found that a meaningful subset of top-10 picks land in the high-PIR (pink) cluster. Thus, they can reasonably be viewed as successful “hits,” while a substantial number fall into the low-PIR (yellow) cluster and underperform relative to expectations for such a high selection. In other words, being drafted in the top 10 does not guarantee a star-level career; outcomes range from clear busts to franchise-level players.  
 &emsp;&emsp;&emsp;Our results also highlight clear differences across franchises. When we count yellow-cluster players by drafting team, the Sacramento Kings stand out with 8 underperforming top-10 picks, well above the sample average of about 2.93 per team. Other teams are much closer to the average, and a few franchises have drafted very few (or no) low-PIR top-10 players over the period we studied, suggesting a stronger track record with their high picks. Taken together, these patterns answer our second and third questions: some organizations have consistently struggled with early lottery selections, while others have managed to avoid large numbers of busts.  
-&emsp;&emsp;&emsp;Finally, the minutes–PIR visualization indicates a clear positive correlation between playing time and efficiency: players with higher PIR generally appear among those with higher average minutes per game, whereas low-PIR players are more common at lower minute totals. However, this relationship should be interpreted as an association rather than a one-way causal effect. It is likely that better performance leads to more minutes (coaches reward effective players) and that more minutes give players more opportunities to accumulate positive statistics, so both processes can operate at the same time. Overall, our findings suggest that draft position, organizational decision-making, and opportunity (playing time) all interact to shape how successful a top-10 pick’s career becomes, and that even at the top of the draft there is significant uncertainty in long-term outcomes
+&emsp;&emsp;&emsp;Finally, the MPG–PIR figure indicates a clear positive correlation between playing time and efficiency: players with higher PIR generally appear among those with higher average minutes per game, whereas low-PIR players are more common at lower minute totals. However, this relationship should be interpreted as an association rather than a one-way causal effect. It is likely that better performance leads to more minutes (coaches reward effective players) and that more minutes give players more opportunities to accumulate positive statistics, so both processes can operate at the same time. Overall, our findings suggest that draft position, organizational decision-making, and opportunity (playing time) all interact to shape how successful a top-10 pick’s career becomes, and that even at the top of the draft there is significant uncertainty in long-term outcomes
 
 **References**  
 Pérez-Toledano, MÁ, et al. “Players’ Selection for Basketball Teams, through Performance Index Rating.” *PLOS ONE*  
