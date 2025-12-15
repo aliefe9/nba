@@ -1,7 +1,7 @@
 # nba
 nba project summary
 
-#visual1
+#visual1:
 
 <iframe
   src="/player_performance_kmeans.html"
@@ -13,7 +13,7 @@ nba project summary
 </iframe>
 
 
-#visual2
+#visual2:
 
 <iframe
   src="/underperforming_lottery_picks.html"
