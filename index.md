@@ -1,4 +1,4 @@
-*Evaluating NBA Lottery Picks Using Career Performance*
+# Evaluating NBA Lottery Picks Using Career Performance*
 
 **Group Members:**  
 Ali Efe Isik, Djordje Lazarevic  
