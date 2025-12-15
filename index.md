@@ -6,7 +6,7 @@ Ali Efe Isik, Djordje Lazarevic
 **Colab Worksheet**
 
 **Introduction**  
-&emsp;This project looks into the career success of NBA players who were selected in the first 10 places in the NBA draft. We used a dataset from kaggle that contains detailed statistics from multiple NBA seasons, and our research question is: “How successful have first 10 draft picks been, and which teams made the most draft mistakes?”  
+&emsp;&emsp;&emsp;&emsp;This project looks into the career success of NBA players who were selected in the first 10 places in the NBA draft. We used a dataset from kaggle that contains detailed statistics from multiple NBA seasons, and our research question is: “How successful have first 10 draft picks been, and which teams made the most draft mistakes?”  
 &emsp;We evaluated player performance using the Performance Index Rating(PIR), a generally used efficiency metric in the basketball world outside the NBA, that incorporates all positive statistical contributions and subtracts negative contributions. As it summarizes on-court impact in a single number, it is a good comparison number between players. We learned about PIR from Euroleague which adapted this statistic that was found by the Spanish ACB league in early 1990s [(Player Index Rating)](https://en.wikipedia.org/wiki/Performance_index_rating).  
 &emsp;The goal of the analysis is to compare PIR between players and identify which players underperformed or outperformed in their careers and answer following questions: 
 
